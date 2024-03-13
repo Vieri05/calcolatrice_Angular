@@ -1,0 +1,10 @@
+h2 {
+  background-color: rgb(182, 182, 182);
+  text-align: right;
+}
+
+div {
+  width: 20%;
+  border: 1px solid black;
+
+}
